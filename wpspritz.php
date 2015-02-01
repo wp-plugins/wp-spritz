@@ -2,14 +2,14 @@
 /*
 Plugin Name: WP Spritz
 Plugin Script: wpspritz.php
-Plugin URI: http://.../wpspritz (where should people go for this plugin?)
+Plugin URI: https://wordpress.org/plugins/wp-spritz
 Description: This plugin integrate Spritz to your Wordpress Website. Spritz is the best way to engage with content in the digital age. It deliver a focused reading experience and help readers get their content faster, with less effort and across any device or screen size.
 Version: 1.0
 Author: Romain Laurent
 Author URI: http://www.rlaurent.com
 
 === RELEASE NOTES ===
-2015-01-28 - v0.1 - first version
+2015-01-28 - v1.0 - first version
 */
 
 

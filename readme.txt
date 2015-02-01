@@ -21,8 +21,8 @@ This section describes how to install the plugin and get it working.
 
 1. Upload `wpspritz` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Follow the steps in the WpSpritz settings page!
-3. Enjoy
+3. Follow the steps in the WpSpritz settings page
+3. Enjoy!
 
 == Screenshots ==
 
@@ -30,5 +30,5 @@ This section describes how to install the plugin and get it working.
 
 == Changelog ==
 
-= 0.1 =
+= 1.0 =
 * Firts version
