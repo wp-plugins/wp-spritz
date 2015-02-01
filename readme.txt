@@ -13,8 +13,7 @@ Integration of Spritz, a Speed-reading box for your posts content.
 
 This plugin integrate Spritz to your Wordpress Website. Spritz is the best way to engage with content in the digital age. It deliver a focused reading experience and help readers get their content faster, with less effort and across any device or screen size.
 
-Usage
-After you activated the plugin, the plugin will automatically add the Spritz Redicle before your content.
+After you activated it, the plugin will automatically add the Spritz Redicle before your content.
 
 == Installation ==
 
