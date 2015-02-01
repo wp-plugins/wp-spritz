@@ -1,0 +1,16 @@
+.spritz-dropdown .reticle-primary {
+	margin: auto;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	z-index: 3;
+}
+
+@media (min-width: 768px){
+	.spritz-dropdown .reticle-primary {
+	width: 390px;
+	height: 170px;
+	background: transparent;
+	}
+}
